@@ -181,6 +181,7 @@ header{
     padding: 24px 0 8px;
     background-color: #f5f5f5;
     transition: .4s;
+    padding-left: 8px;
 }
 .p-item:hover .p-heading h1{
     color: #fff;
